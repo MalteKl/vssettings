@@ -1,0 +1,80 @@
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Theme Id="{1DED0138-47CE-435E-84EF-9EC1F439B749}"/>
+				<Categories>
+					<Category GUID="{FA937F7B-C0D2-46B8-9F10-A7A92642B384}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Artboard Background" Foreground="0x02000000" Background="0x02000000"/>
+						</Items>
+					</Category>
+					<Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Segoe UI" FontSize="9" CharSet="1" FontIsDefault="No">
+						<Items>
+							<Item Name="Different content" Foreground="0x000014E5" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Identical content" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Source Only" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Target Only" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Not Downloaded" Foreground="0x00999999" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Even Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+							<Item Name="Odd Row Items" Foreground="0x00000000" Background="0x00FFFFFF" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{75A05685-00A8-4DED-BAE5-E7A50BFA929A}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="ASD-ESH.Definition.Event" Foreground="0x00CDC287" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Field" Foreground="0x00CDC287" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.FieldConstant" Foreground="0x00CDC287" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Enum" Foreground="0x00CDC287" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Local" Foreground="0x00C5C5C5" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Method" Foreground="0x004DC49D" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.MethodExtension" Foreground="0x004DC49D" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.MethodStatic" Foreground="0x004DC49D" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Namespace" Foreground="0x00C5C5C5" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Parameter" Foreground="0x003F97DE" Background="0x01000001" BoldFont="No"/>
+							<Item Name="ASD-ESH.Definition.Property" Foreground="0x00CDC287" Background="0x01000001" BoldFont="No"/>
+							<Item Name="string - verbatim" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="class name" Foreground="0x00CDC287" Background="0x02000000" BoldFont="No"/>
+							<Item Name="delegate name" Foreground="0x00CDC287" Background="0x02000000" BoldFont="No"/>
+							<Item Name="enum name" Foreground="0x00EF92B3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="interface name" Foreground="0x00EF92B3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="module name" Foreground="0x004DC49D" Background="0x02000000" BoldFont="No"/>
+							<Item Name="struct name" Foreground="0x004DC49D" Background="0x02000000" BoldFont="No"/>
+							<Item Name="type parameter name" Foreground="0x004DC49D" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - cdata section" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - comment" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - delimiter" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - entity reference" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - name" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - processing instruction" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="xml doc comment - text" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x007C4FD0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Operator" Foreground="0x007A49D6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x00EF92B3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Line Number" Foreground="0x008A908F" Background="0x00332E2B" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00816D61" BoldFont="No"/>
+							<Item Name="XML Doc Comment" Foreground="0x007D6B60" Background="0x01000001" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{58E96763-1D3B-4E05-B6BA-FF7115FD0B7B}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00C5C5C5" Background="0x00332E2B" BoldFont="No"/>
+							<Item Name="Selected Text" Foreground="0x02000000" Background="0x00816D61" BoldFont="No"/>
+						</Items>
+					</Category>
+					<Category GUID="{E0187991-B458-4F7E-8CA9-42C9A573B56C}" FontIsDefault="Yes">
+						<Items>
+							<Item Name="Keyword" Foreground="0x007C4FD0" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x007D6B60" Background="0x02000000" BoldFont="No"/>
+							<Item Name="String" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x00EF92B3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Keyword" Foreground="0x007A49D6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute" Foreground="0x00CDC287" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Value" Foreground="0x0074DBE6" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x003F97DE" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
